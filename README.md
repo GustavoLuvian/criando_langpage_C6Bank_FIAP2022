@@ -1,2 +1,2 @@
-# criando_langpage_C6Bank_FIAP2022
+# Recriando Página inicial do banco C6 em aula
 Projeto desenvolvido em aula - FIAP2022
